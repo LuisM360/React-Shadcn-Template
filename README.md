@@ -7,7 +7,7 @@ A minimal, ready-to-use template for React projects using Vite and Shadcn/UI com
 1. Clone this template:
 
 ```bash
-git clone
+git clone https://github.com/LuisM360/React-Shadcn-Template
 cd react-shadcn-template
 ```
 
